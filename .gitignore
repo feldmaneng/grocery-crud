@@ -4,7 +4,9 @@
 .project
 .idea/
 system/
-assets/grocery_crud/themes/bootstrap
+# The author would like to exclude this theme from his builds
+# but we want to include it so it gets deployed automatically
+#assets/grocery_crud/themes/bootstrap
 application/.htaccess
 application/cache/
 application/config/migration.php
