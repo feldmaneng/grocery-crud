@@ -97,3 +97,5 @@
 	
 	/* Added in version 1.6.1 */
 	$lang['list_clone'] = 'Clone';
+	
+	
