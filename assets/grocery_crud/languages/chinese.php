@@ -94,15 +94,8 @@
 	$lang['alert_delete_multiple'] = '你确定要删除这些项吗（项_总数: {items_amount}) ?';
 
 	$lang['alert_delete_multiple_one'] = '你确定要删除此一项吗?';
-<<<<<<< HEAD
 
 	/* Added in version 1.6.1 */
 	$lang['list_clone'] = 'Clone';
 
-=======
-	
-	/* Added in version 1.6.1 */
-	$lang['list_clone'] = 'Clone';
-	
-	
->>>>>>> 96ca4f0776ed438d8130ebd3c0d0f50e5990e758
+
