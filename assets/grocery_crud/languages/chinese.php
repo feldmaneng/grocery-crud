@@ -95,4 +95,6 @@
 
 	$lang['alert_delete_multiple_one'] = '你确定要删除此一项吗?';
 
+	/* Added in version 1.6.1 */
+	$lang['list_clone'] = 'Clone';
 
